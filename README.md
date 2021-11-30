@@ -8,4 +8,5 @@ Download the One Page template and edit the text as per your requirement and you
 
 <h3>Screenshot</h3>
 
-![Uploading Screen Shot 2021-11-30 at 23.04.43.png…]()
+![Screen Shot 2021-11-30 at 23 04 43](https://user-images.githubusercontent.com/26448060/144098748-ec4ae1b8-bad1-4bd8-8b52-69b2375dc0eb.png)
+

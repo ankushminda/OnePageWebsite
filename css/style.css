@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Roboto Condensed','Open Sans','Calibri';
+  scroll-behavior: smooth;
+}
+
+body {
+  font-weight: 200;
+  width: 100%;
+
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.spacer {
+  clear: both;
+}
+
+.yellow {
+  background: #ffc048;
+}
+
+.green {
+  background: #0be881;
+}
+
+.blue {
+  background: #4bcffa;
+}
+
+.black {
+  background: #484848;
+  color: #ffffff;
+}
+
+header {
+  background: #ffffff;
+  padding: 0 10%;
+  position: fixed;
+  width: 80%;
+  top: 0;
+
+}
+
+header h1 {
+  font-size: 2.15em;
+}
+
+header ul {
+  padding: 1%;
+}
+
+header ul li {
+  list-style: none;
+  display: inline;
+  padding: 15px;
+}
+
+section {
+  padding: 0 10%;
+  min-height: 100vh;
+}
+
+section h2::before {
+  content: '[';
+  font-size: 1.75em;
+}
+
+section h2 {
+  padding: 5% 0 0 0;
+}
+
+section h2::after {
+  content: ']';
+  font-size: 1.75em;
+}
+
+section p {
+  padding: 2% 0 0 0;
+  margin: auto;
+}
+
+#main_container {
+  margin: 1% 0;
+}

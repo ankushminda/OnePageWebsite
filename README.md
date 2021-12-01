@@ -34,4 +34,4 @@ Contact page with google maps embedded.
 
 ####
 
-If you like the template, please do like the project and you can buy me a coffee too :) .
+If you like the template, please do like the project and you can buy me a coffee (<a href="https://www.buymeacoffee.com/ankushminda" target="_blank">Link</a>) too :) .

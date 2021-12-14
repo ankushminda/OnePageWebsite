@@ -12,25 +12,26 @@ Download the One Page template and edit the text as per your requirement and you
 
 Home page is an elegantly desiged page with a responsive navigation which works perfectly in mobile and desktop web browsers.
 
-![Screen Shot 2021-12-01 at 19 51 27](https://user-images.githubusercontent.com/26448060/144251289-af69574d-4d4d-443d-a878-c8b42b0260e6.png)
+![image](https://user-images.githubusercontent.com/26448060/146055361-75f56b56-3c39-458d-9301-353199022762.png)
+
 
 **About Us**
 
 Simple About Us page.
 
-![Screen Shot 2021-12-01 at 19 51 46](https://user-images.githubusercontent.com/26448060/144251317-1ef3805a-050f-48c3-a945-c5b9d7d23eef.png)
+![image](https://user-images.githubusercontent.com/26448060/146055497-1c4c07e1-84ce-4c7f-9048-95746260fb1b.png)
 
 **Pricing**
 
 Simple and elegant pricing table.
 
-![Screen Shot 2021-12-01 at 19 51 59](https://user-images.githubusercontent.com/26448060/144251369-e072cff8-ac21-4fa5-9920-bae941c3b310.png)
+![image](https://user-images.githubusercontent.com/26448060/146055575-6da2d5ba-a01e-4f1a-8edf-14aaf7062e94.png)
 
 **Contact**
 
 Contact page with google maps embedded.
 
-![Screen Shot 2021-12-01 at 19 52 18](https://user-images.githubusercontent.com/26448060/144251404-94718b01-3d92-4e65-897c-3cff3a58687d.png)
+![image](https://user-images.githubusercontent.com/26448060/146055654-1b3b7e00-17a6-4443-8916-cbdc6b44f054.png)
 
 ####
 

@@ -36,3 +36,15 @@ Contact page with google maps embedded.
 ####
 
 If you like the template, please do like the project and you can buy me a coffee (<a href="https://www.buymeacoffee.com/ankushminda" target="_blank">Link</a>) too :) .
+
+
+
+<h2>Issues/Feedback:</h2>
+
+If you come accross any issue with the library, do send me an email [at] hello@ankushminda.com or raise an issue in GITHUB repo.
+
+
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/ankushminda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankushminda" /></a></p>
+
+
